@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#jpack and csv extensions
+*.jpk
+*.bak
+*.csv
